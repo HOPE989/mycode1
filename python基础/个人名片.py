@@ -1,0 +1,16 @@
+name = input("please enter your name:")
+university = input("please enter your university:")
+grade = input("please enter your grade:")
+major = input("please enter your major:")
+class1 = input("please enter your class:")
+
+
+print('*' * 50)
+print(university)
+print()
+print("姓名: %s" % name)
+print()
+print("专业: %s" % major)
+print("年级: %s" % grade)
+print("班级: %s" % class1)
+print("*" * 50)
